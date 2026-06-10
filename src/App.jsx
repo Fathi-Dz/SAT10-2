@@ -9,7 +9,7 @@ export default function App() {
       <nav className="w-full max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
 
         <div className="text-xl font-extrabold tracking-wider">
-          MF<span className="text-amber-400">.</span>AZHARY
+          F4THI<span className="text-amber-400">.</span>DZ4H4BY
         </div>
         
         <div className="flex gap-8 text-sm font-medium text-zinc-400">
@@ -35,7 +35,7 @@ export default function App() {
         </div>
 
         <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-4 text-white">
-          Muhammad Firman Azhary
+          Fathi Dzahabi
         </h1>
 
         <div className="inline-flex items-center gap-2 bg-zinc-900 border border-zinc-800 rounded-full px-4 py-1.5 text-xs md:text-sm font-medium mb-6">

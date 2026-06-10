@@ -45,9 +45,9 @@ export default function App() {
         </div>
 
         <p className="text-zinc-400 text-base md:text-lg leading-relaxed max-w-2xl mb-10">
-          Specializing in building robust web applications using the MERN stack and 
-          Laravel. Passionate about crafting clean code, mentoring the next generation of 
-          developers, and bridging the gap between education and modern technology.
+          seorang front-end 
+  developer yang senang membangun antarmuka web yang interaktif, rapi, dan responsif. 
+  Fokus saya saat ini adalah memperdalam React dan Tailwind CSS.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center w-full sm:w-auto">
